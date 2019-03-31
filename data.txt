@@ -1,3 +1,6 @@
 "I think that by 2020 most data will br in either public clouds or cloud-like private environment."
 
 Matei Zaharia
+
+
+" All Models are wrong but some of them are usefful "
